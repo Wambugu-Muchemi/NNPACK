@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/convolution-kernel-gradient-smoketest.dir/test/convolution-kernel-gradient/smoke.cc.o" -o convolution-kernel-gradient-smoketest  libnnpack.a libnnpack_reference_layers.a deps/googletest/googlemock/gtest/libgtest.a deps/cpuinfo/libcpuinfo.a deps/pthreadpool/libpthreadpool.a 

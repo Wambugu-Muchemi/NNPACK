@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/max-pooling-output-smoketest.dir/test/max-pooling-output/smoke.cc.o" -o max-pooling-output-smoketest  libnnpack.a libnnpack_reference_layers.a deps/googletest/googlemock/gtest/libgtest.a deps/cpuinfo/libcpuinfo.a deps/pthreadpool/libpthreadpool.a 

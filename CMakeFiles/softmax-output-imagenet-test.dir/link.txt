@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/softmax-output-imagenet-test.dir/test/softmax-output/imagenet.cc.o" -o softmax-output-imagenet-test  libnnpack.a libnnpack_reference_layers.a deps/googletest/googlemock/gtest/libgtest.a deps/cpuinfo/libcpuinfo.a deps/pthreadpool/libpthreadpool.a 

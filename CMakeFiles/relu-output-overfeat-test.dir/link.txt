@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic "CMakeFiles/relu-output-overfeat-test.dir/test/relu-output/overfeat-fast.cc.o" -o relu-output-overfeat-test  libnnpack.a libnnpack_reference_layers.a deps/googletest/googlemock/gtest/libgtest.a deps/cpuinfo/libcpuinfo.a deps/pthreadpool/libpthreadpool.a 

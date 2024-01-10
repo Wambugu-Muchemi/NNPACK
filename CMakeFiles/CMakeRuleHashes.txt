@@ -1,0 +1,14 @@
+# Hashes of file build rules.
+3143fed5f31b1148991940d06538b15c src/x86_64-fma/2d-fourier-16x16.py.o
+4713cf58ee1d1d2bfa9f68298212aeb9 src/x86_64-fma/2d-fourier-8x8.py.o
+bdf2d3c031fa573076c7bf4692f12cc3 src/x86_64-fma/2d-winograd-8x8-3x3.py.o
+646c86c4aac21452c6c32a361fa7dc54 src/x86_64-fma/blas/c8gemm.py.o
+d0fe23ecaac0f0aa7079b392aad1af7f src/x86_64-fma/blas/conv1x1.py.o
+993d7b776e5263991ccaddd33dede9bd src/x86_64-fma/blas/s4c6gemm.py.o
+8c72c395032a64c64cea1b383ce0e3ff src/x86_64-fma/blas/s8gemm.py.o
+6072b216d16c6aee742620ef28b9f154 src/x86_64-fma/blas/sdotxf.py.o
+a28db5dd91cc87399eccc6f9f6710714 src/x86_64-fma/blas/sgemm.py.o
+abc52dd7c6afb99692ccbf0d6b23a6e0 src/x86_64-fma/blas/shdotxf.py.o
+286421976c89ae172457020bf3997367 src/x86_64-fma/max-pooling.py.o
+3e7ac5936ec32ce9fac8ff9d0cd45393 src/x86_64-fma/relu.py.o
+3f4251a0b5aa041c730a1647f25dc393 src/x86_64-fma/softmax.py.o
